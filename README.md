@@ -1,5 +1,5 @@
 # project
-Idk
+Instagram tool that grows your account fast
 
 # Setup
 1- you need python to install python
