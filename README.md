@@ -1,2 +1,6 @@
 # project
-this is a tool that helps ur instgram account grow faster.
+Idk
+
+# Setup
+1- you need python to install python
+Here Python
